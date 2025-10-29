@@ -1,5 +1,5 @@
 # Machin_learing_projects
-ml projects
+
 
 🧩 Customer Segmentation using K-Means Clustering
 
